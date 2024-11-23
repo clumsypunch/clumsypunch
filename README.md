@@ -1,4 +1,4 @@
-### <div align="center">I'm Rodrigo, a full-time full-stack data science trainee👨‍💻 breaking and dismantling things since ever 🚀</div>  
+### <div align="center">I'm Rodrigo, a full-time full-stack data science trainee👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Deteccion de anomalias en depositos publicos](https://github.com)  
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AWS cloud and Computer Vision  
   
 
-- ❓ Ask me about anything related to Data Science and related  
+- ❓ Ask me about anything related to Data Science
   
 
 - ⚡ Fun fact: I like to use light themes  
