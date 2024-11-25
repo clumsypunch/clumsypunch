@@ -89,7 +89,7 @@
 </div>  
   
 
-<div align="center">rodrigomartinez at uc.cl</div>  
+<div align="center">rodrigomartinez at uc dot cl</div>  
   
 
 <br/>  
